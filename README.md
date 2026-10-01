@@ -153,26 +153,7 @@ Modify Tailwind colors in `tailwind.config.js` or use Tailwind's built-in colors
 - **Tablet**: 768px - 1024px
 - **Desktop**: > 1024px
 
-## 🌐 Deployment
 
-### Deploy to Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Vercel auto-detects Vite and deploys automatically
-
-### Deploy to Netlify
-
-1. Run `npm run build`
-2. Connect your repository to Netlify
-3. Set build command: `npm run build`
-4. Set publish directory: `dist`
-
-### Deploy to GitHub Pages
-
-1. Update `vite.config.js` with your repository name
-2. Run `npm run build`
-3. Push the `dist` folder to `gh-pages` branch
 
 ## 📞 Contact Links
 
